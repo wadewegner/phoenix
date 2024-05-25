@@ -1,0 +1,25 @@
+{
+  "name": "phoenix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wadewegner/phoenix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wadewegner/phoenix/issues"
+  },
+  "homepage": "https://github.com/wadewegner/phoenix#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "env": "^0.0.2",
+    "express": "^4.19.2"
+  }
+}
